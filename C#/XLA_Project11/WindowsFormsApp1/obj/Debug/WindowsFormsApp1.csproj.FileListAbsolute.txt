@@ -1,0 +1,19 @@
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Môn Học\Thị Giác Máy\XLA_Project11\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
